@@ -133,8 +133,7 @@
 </packages>
 <packages3d>
 <package3d name="TSSOP28" urn="urn:adsk.eagle:package:17539/3" type="model">
-<description>Thin Shrink Small Outline Plastic 28
-MAX3223-MAX3243.pdf</description>
+<description>Thin Shrink Small Outline Plastic 28-pin.</description>
 <packageinstances>
 <packageinstance name="TSSOP28"/>
 </packageinstances>
